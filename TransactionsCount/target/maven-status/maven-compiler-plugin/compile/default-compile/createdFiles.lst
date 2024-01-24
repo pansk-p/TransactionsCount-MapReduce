@@ -1,0 +1,4 @@
+org\big_data_uom\TransactionsCount$IntSumReducer.class
+org\big_data_uom\TransactionsCount$TokenizerMapper.class
+org\big_data_uom\TransactionsCount$Combiner.class
+org\big_data_uom\TransactionsCount.class
